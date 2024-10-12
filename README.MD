@@ -88,5 +88,10 @@ Recuerda consultar la documentación oficial de A-Frame (https://aframe.io/docs/
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/nerd-face_1f913.png" width=20> Daniel Quintero 
 
 
+Credits - Realidad aumentada A -Frame.js
+© 2023 by Daniel Quintero is lincensed
+under cco 4.0
+
+
 
 
