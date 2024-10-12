@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gorilla tag running
+* source:	https://sketchfab.com/3d-models/gorilla-tag-running-eb280e5fb4f5460d8a9b88ab5df2f82b
+* author:	Moe (https://sketchfab.com/MoeLikesToRip)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gorilla tag running" (https://sketchfab.com/3d-models/gorilla-tag-running-eb280e5fb4f5460d8a9b88ab5df2f82b) by Moe (https://sketchfab.com/MoeLikesToRip) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
